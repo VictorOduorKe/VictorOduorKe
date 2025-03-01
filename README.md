@@ -2,7 +2,7 @@
 ## Hi there 👋, I'm Victor Oduor
 
 🔒 Aspiring **Network Security Engineer** with a focus on **Huawei Technologies**  
-💻 Passionate about **Cybersecurity**, **Web Development**, and **E-commerce**  
+💻 Passionate about **Cybersecurity**, **Web Development**.  
 🚀 Currently working on a **React E-commerce website** and a **Cybersecurity project**  
 📚 Learning **Huawei networking technologies**, **PHP AI for student result prediction**, and **Blade templates**  
 
