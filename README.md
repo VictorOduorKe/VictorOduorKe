@@ -1,5 +1,9 @@
 #Victrorduorke
-## Hi there 👋, I'm Victor Oduor
+
+
+<span style="color: transparent; text-shadow: 0 0 5px #000; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='transparent'">
+ Hi there 👋, I'm Victor Oduor
+</span>
 
 🔒 Aspiring **Network Security Engineer** with a focus on **Huawei Technologies**  
 💻 Passionate about **Cybersecurity**, **Web Development**.  
