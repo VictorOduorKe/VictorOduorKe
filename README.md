@@ -10,7 +10,7 @@ Hi there 👋, I'm Victor Oduor
 📚 Learning **Huawei networking technologies**, **PHP AI for student result prediction**, **Blade templates**, and **Database Administration**
 
 **VISIT MY WEBSITE👇👇**  
-<a href="https://victor-portfolio-qqer.onrender.com" style="text-decoration:none;color:blue; font-size:24px;">https://main.dscruezgwt4xm.amplifyapp.com/<a>
+<a href="https://victor-portfolio-qqer.onrender.com" style="text-decoration:none;color:blue; font-size:24px;">https://victor-portfolio-qqer.onrender.com/<a>
 
 ---
 
