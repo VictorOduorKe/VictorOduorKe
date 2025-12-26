@@ -3,7 +3,7 @@
 <span style="filter: blur(5px); cursor: pointer;" title="Hi there 👋, I'm Victor Oduor">
 Hi there 👋, I'm Victor Oduor
 </span>
-# **Full Stack Dveloper (MERN)** 
+**Full Stack Dveloper (MERN)** 
 **IT SUPPORT**
 🔒 **Network Security Engineer** with a focus on **Huawei Technologies**  
 💻 Passionate about **Cybersecurity**, **Web Development**, and **Cloud Computing**  
