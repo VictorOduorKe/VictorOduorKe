@@ -1,64 +1,84 @@
-# Victrorduorke
+# 👋 Hi, I'm Victor Oduor
 
-<span style="filter: blur(5px); cursor: pointer;" title="Hi there 👋, I'm Victor Oduor">
-Hi there 👋, I'm Victor Oduor
-</span>
-**Full Stack Dveloper (MERN)** 
-**IT SUPPORT**
-🔒 **Network Security Engineer** with a focus on **Huawei Technologies**  
-💻 Passionate about **Cybersecurity**, **Web Development**, and **Cloud Computing**  
-🚀 Currently working on a **React E-commerce website**, a **Cybersecurity project**, and **AWS Cloud Launch projects**  
-📚 Learning **Huawei networking technologies**, **PHP AI for student result prediction**, **Blade templates**, and **Database Administration**
+## Full-Stack Developer | Network Security Enthusiast | Automation & Cloud Developer
 
-**VISIT MY WEBSITE👇👇**  
-<a href="https://victor-portfolio-qqer.onrender.com" style="text-decoration:none;color:blue; font-size:24px;">https://victor-portfolio-qqer.onrender.com/<a>
+I’m a passionate developer and IT practitioner focused on building secure, scalable, and data-driven applications.
+
+My work spans across:
+
+- 🛍️ React-based web & e-commerce projects  
+- 🔒 Cybersecurity & network security (Huawei technologies learning path)  
+- ☁️ Cloud deployment & backend integrations  
+- 🤖 Automation workflows (Node.js, PHP, Puppeteer)  
+- 🗄️ Database-driven systems & admin dashboards  
+
+I enjoy solving real-world problems through technology, continuous learning, and hands-on experimentation.
 
 ---
 
-### 🚀 Skills & Technologies:
+## 🎯 Current Focus
 
-#### 🧠 Languages & Frameworks:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ⚙️ Payment automation & webhook-driven systems  
+- 🧩 Node.js + PHP + Puppeteer workflow integrations  
+- 🧠 AI-assisted systems in PHP  
+- 🌐 React frontend with Express backend  
+- 📡 Deepening knowledge in Huawei network security  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Map.js](https://img.shields.io/badge/Map.js-4DB6AC?style=flat&logo=leaflet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### 🌐 Cloud & Hosting:
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade_Template-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Infinitree](https://img.shields.io/badge/Infinitree-228B22?style=flat&logo=tree&logoColor=white)
-
-#### 🔒 Cybersecurity & Tools:
-![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat&logo=huawei&logoColor=white)
-![Security](https://img.shields.io/badge/Network%20Security-000000?style=flat&logo=protonvpn&logoColor=white)
-
-#### 🗄️ Databases & Administration:
+### 🗄️ Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=sqlite&logoColor=white)
-![Database Admin](https://img.shields.io/badge/Database%20Administration-6A5ACD?style=flat&logo=mariadb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat&logo=fastapi&logoColor=white)
 
-#### 📧 Email Marketing:
-![Brevo](https://img.shields.io/badge/Brevo-0056FB?style=flat&logo=maildotru&logoColor=white)
+### 🔒 Cybersecurity & Networking
+![Huawei](https://img.shields.io/badge/Huawei_Technologies-FF0000?style=flat&logo=huawei&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-000000?style=flat&logo=protonvpn&logoColor=white)
+
+### ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo_Email-0056FB?style=flat)
 
 ---
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoroduorke&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroduorke&layout=compact&theme=gruvbox)  
+## 🌍 Portfolio
+
+🔗 **Visit My Portfolio:**  
+https://victor-portfolio-qqer.onrender.com/
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoroduorke&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroduorke&layout=compact&theme=gruvbox)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoroduorke&theme=highcontrast)
 
 ---
 
-### 🔗 Connect with Me:
+## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vicky-paulke)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vicky-paulke)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:victoroduor723@gmail.com)
 
 ---
 
-🚀 **Let's build secure, scalable, and cloud-powered applications together!** 🔐💡
+💡 *Driven by learning, security-minded engineering, and real-world problem solving.*  
+🚀 *Let’s build secure and scalable systems!*
