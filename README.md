@@ -3,8 +3,9 @@
 <span style="filter: blur(5px); cursor: pointer;" title="Hi there 👋, I'm Victor Oduor">
 Hi there 👋, I'm Victor Oduor
 </span>
-
-🔒 Aspiring **Network Security Engineer** with a focus on **Huawei Technologies**  
+# **Full Stack Dveloper (MERN)** 
+**IT SUPPORT**
+🔒 **Network Security Engineer** with a focus on **Huawei Technologies**  
 💻 Passionate about **Cybersecurity**, **Web Development**, and **Cloud Computing**  
 🚀 Currently working on a **React E-commerce website**, a **Cybersecurity project**, and **AWS Cloud Launch projects**  
 📚 Learning **Huawei networking technologies**, **PHP AI for student result prediction**, **Blade templates**, and **Database Administration**
