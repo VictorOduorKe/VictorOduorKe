@@ -56,8 +56,11 @@ Cybersecurity, Cloud Deployments, Backend Automation and Full-Stack Engineering.
 
 ## 📊 GitHub Analytics (Dark Themes)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoroduorke&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroduorke&layout=compact&theme=vision-friendly-dark)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victoroduorke&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victoroduorke&layout=compact&theme=vision-friendly-dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoroduorke&theme=highcontrast)
 
 ---
