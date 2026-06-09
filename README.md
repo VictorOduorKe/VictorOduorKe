@@ -62,6 +62,15 @@ Network security research and secure software engineering practices.
 
 ## <img src="https://skillicons.dev/icons?i=github" height="20" /> GitHub Statistics
 
+
+![](https://github-readme-stats.vercel.app/api?username=victoroduorke&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroduorke&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=victoroduorke&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=victoroduorke&theme=tokyo-night&hide_border=true)
+
 ---
 
 ## <img src="https://skillicons.dev/icons?i=webflow" height="20" /> Portfolio
